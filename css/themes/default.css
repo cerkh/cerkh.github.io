@@ -1,0 +1,18 @@
+:root {
+    --transparent: rgba(0, 0, 0, 0);
+    --dark: #000;
+    --light: #fff;
+    --body-background: #df47d8;
+    --quiz-console-face-background-1: #694de0;
+    --quiz-console-face-background-2: #302372;
+    --quiz-console-face-border: #77209a;
+    --quiz-console-face-background-triangles-background: #d22ecb;
+    --quiz-console-face-disp-1-background-1: #6a4de5;
+    --quiz-console-face-disp-1-border: #422aa6;
+    --quiz-console-face-disp-divider-background: #6b4ee6;
+    --quiz-console-face-disp-divider-border: #5c48c3;
+    --quiz-console-face-disp-1-bottom-banner-background-color: #b4aaff;
+    --quiz-console-face-disp-1-main-display-grid-color: #eeeeee;
+    --option-button-face-color: #fe78e7;
+    --option-button-outer-border-color: #250d39;
+}
